@@ -1,3 +1,4 @@
 #!/bin/bash
 
-pandoc -s ./*.md -o main.pdf --template ./template.latex
+mdoc parse main.mdoc --md
+pandoc -s main.md -o main.pdf --template ./template.latex

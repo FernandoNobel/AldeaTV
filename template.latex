@@ -36,19 +36,71 @@ $if(img-path)$
 $endif$
 
 
-\title{Q::EVANGELION}
+$if(title)$
+\title{$title$}
+$endif$
 
-\author{Espada Verde}
+$if(author)$
+\author{$author$}
+$endif$
 
-%\date{$date$}
+$if(date)$
+\date{$date$}
+$endif$
 
 %------------------------ Document Begin ------------------------------
 \begin{document}
 
-\maketitle
+\begin{titlepage}
+\vspace*{9em}
+{
+  \centering\Huge
+  $title$
+  \par
+}
+
+\vspace{1em}
+{
+  \centering\itshape
+  $author$
+  \par
+}
+\end{titlepage}
+
+\clearpage\null\newpage
+
+{
+\begin{minipage}[b]{0.9\textwidth}
+\footnotesize\raggedright
+\setlength{\parskip}{0.5\baselineskip}
+Creador: Jorge \\
+Editor principal: Jorge \\
+Maquetación: Nóbel 
+\end{minipage}
+
+\vfill
+
+\centering
+
+Copyright 2020 por Biohazard Rol en Vivo
+
+\vspace{5mm}
+
+Todos los derechos reservados.
+
+\vspace{5mm}
+La reproducción sin permiso del editor está expresamente prohibida ...
+
+\vspace{5mm}
+www.biohazard.com \par
+
+}
+
+\newpage
 
 \tableofcontents
-%\newpage
+
+\newpage
 
 \setlength{\parskip}{0.5em}
 
