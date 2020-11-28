@@ -1,0 +1,5 @@
+Nerea Sanchez
+
+Muy buenas tardes soy Nerea Sanchez, soy presentadora y reportera de las noticias de Cadena Aldea. Termine periodismo hace unos años y tuve la desgracia de acabar trabajando en este vertedor. No te confundas, en un principio me encantaba la idea de ser reportera y presentadora, pero luego me di cuenta que ser reportera en esta cadena es pasarte la vida haciendo reportajes de granjeros y navajas... la persona más famosa a la que he entrevistado es un tío que conoció a Freddy Mercury. Y ser presentadora es aún peor, nadie ve nuestras noticias y encima tengo que compartir el puesto con mi horrible jefe Alejandro Peñas, un tío que me trata fatal y que parece no tener ningún interés en hacer bien su trabajo.
+
+Pero hoy es el día en que todo esto va a cambiar. Los espectadores no tendrán más remedio que ver nuestras noticias y por fin van a ver lo buena reportera y presentadora que soy. Y no me voy a conformar solo con eso... no... voy a arruinar la carrera de Alejando, ya que he remplazado sus noticias con noticias falsa y absurdas... cuando él las lea la gente sabrán que son falsas y verán lo inútil que es. MUAJAJJAA

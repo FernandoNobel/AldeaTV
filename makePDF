@@ -1,0 +1,3 @@
+#!/bin/bash
+
+pandoc -s ./*.md -o main.pdf --template ./template.latex
